@@ -1,4 +1,4 @@
-require 'guard/guard'
+require 'guard/compat/plugin'
 
 module Guard
   class RebarDeps < Plugin
